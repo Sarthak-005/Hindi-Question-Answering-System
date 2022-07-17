@@ -133,3 +133,9 @@ and sparse gradients.
  Results of model on training and testing set
  
 ![image](https://user-images.githubusercontent.com/58303643/177012382-d331474f-490b-43e4-869b-b190b36cdb08.png)
+
+## UI Design
+
+![s1](https://user-images.githubusercontent.com/58303643/179388474-edb591a8-6f37-4d8e-985c-5f2b22f8206a.png)
+
+![s2](https://user-images.githubusercontent.com/58303643/179388478-69ccaf99-f40f-448c-8814-8150b2ee1788.png)
